@@ -1,3 +1,17 @@
+# Environnement virtuel
 .venv/
-data/
+venv/
+
+# Fichiers temporaires Python
 __pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# Éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
